@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Lukaririnki26
 
-<!--
-**lukaririnki26/lukaririnki26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Full Stack Dev from the Future — Specializing in Laravel & Flutter**  
+Greetings, I’m **Lukaririnki26** — a full stack developer with a backend core. I build robust APIs with Laravel, craft sleek mobile interfaces in Flutter, and bridge both worlds with clean, scalable architecture.
 
-Here are some ideas to get you started:
+🚀 **Stack:**  
+`> Laravel | Flutter | PHP | REST APIs | SQL | JavaScript | Octane`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌌 **What I Build:**  
+- Backend systems engineered for warp-speed performance  
+- Flutter mobile apps that look like they came from 2099  
+- Full stack platforms where every request counts
+
+> "I don’t just ship features — I architect systems that survive black holes."
+
+🌠 Always learning. Always building. Let’s terraform the dev universe together.
+
+---
